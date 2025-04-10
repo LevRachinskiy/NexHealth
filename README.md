@@ -5,7 +5,7 @@
 ##  Features
 
 -  **Cost Model Page**  
-  Input your details (age, chronic condition status, room tier, stay duration) to estimate your healthcare costs using a realistic model.
+  Input your details (age, chronic condition status, room tier, stay duration) to estimate your healthcare costs using a user-friendly, realistic model.
 
 -  **Health Advisor AI**  
   Get personalized advice based on your profile. Responses are concise, human-friendly, and actionable.
